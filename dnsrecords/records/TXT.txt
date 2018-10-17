@@ -1,0 +1,1 @@
+"google-site-verification=gqFmgDKSUd3XGU_AzWWdojRHtW3_66W_PC3oFvQVZEw""v=spf1 ip4:157.55.9.128/25 include:spf.protection.outlook.com include:spf-a.outlook.com include:spf-b.outlook.com include:spf-a.hotmail.com include:_spf-ssg-b.microsoft.com include:_spf-ssg-c.microsoft.com ~all"
